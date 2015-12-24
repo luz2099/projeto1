@@ -1,0 +1,15 @@
+{
+  "name": "projeto1",
+  "description": "Projeto1",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Fagner Luz"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
